@@ -13,8 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const trikam = {
   name: "Trikam Devasi",
   location: "Ahmedabad, Gujarat, India 🇮🇳",
   education: "B.Tech Computer Science (2025 – present)",
@@ -23,10 +21,7 @@ const trikam = {
   currentlyLearning: ["System Design", "AWS", "Docker", "Redis"],
   askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "AI Integration"],
   funFact: "I build real-time multiplayer games just for fun 🎮"
-};
-```
 
----
 
 ## 🛠️ Tech Stack
 
