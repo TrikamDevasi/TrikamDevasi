@@ -1,94 +1,280 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Trikam+Devasi+%F0%9F%91%8B;Full-Stack+Developer;AI+%2B+Web+Integration+Enthusiast;B.Tech+CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Trikam%20Devasi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CS&descAlignY=60&descSize=18" />
+
+</div>
+
+<div align="center">
+
+[
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TrikamDevasi&color=00d9ff&style=flat-square&label=Profile%20Views)
-[![GitHub followers](https://img.shields.io/github/followers/TrikamDevasi?label=Followers&style=flat-square&color=00d9ff)](https://github.com/TrikamDevasi)
+[
+[
+[
 
 </div>
+
+***
 
 ## 📋 Table of Contents
 - [🧑‍💻 About Me](#-about-me)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
+- [🏆 Trophies](#-trophies)
 - [📜 Certifications](#-certifications)
-- [🏆 Hackathons](#-hackathons)
-- [🌐 Connect](#-connect)
+- [🎖️ Hackathons](#️-hackathons)
+- [📈 Activity Graph](#-activity-graph)
+- [🌐 Connect With Me](#-connect-with-me)
 
----
+***
 
 ## 🧑‍💻 About Me
-**name:** Trikam Devasi  
-**location:** Kadi, Gujarat, India 🇮🇳  
-**education:** B.Tech Computer Science (2025 – present)  
-**role:** Full-Stack Developer & Hackathon Enthusiast  
-**currentlyBuilding:** SkillSense AI — AI-powered skill assessment platform with OpenAI & Perplexity APIs  
-**currentlyLearning:** System Design, AWS, Docker, Redis  
-**askMeAbout:** React, Next.js, Node.js, MongoDB, AI Integration  
-**funFact:** I build real-time multiplayer games just for fun 🎮 [web:1][web:17]
 
-- 🔭 Working on production-ready full-stack apps & AI integrations
-- 🌱 Accelerating learning with hackathons & LeetCode
-- 👯 Open to collaborations on web/mobile/AI projects
-- ⚡ Fun fact: Won 3rd in university hackathon with SkillSense AI prototype [web:16]
+<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626435306430312f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742672d554f6f4e5161735474584c2d55676f4c7072657474792d676f6f6420666f72206272696566792e706e67" />
 
-[image:45]
+```javascript
+const trikam = {
+  name      : "Trikam Devasi",
+  location  : "Kadi, Gujarat, India 🇮🇳",
+  education : "B.Tech Computer Science (2025 – present)",
+  role      : "Full-Stack Developer & Hackathon Enthusiast",
+
+  building  : "SkillSense AI — AI-powered skill assessment platform",
+  learning  : ["System Design", "AWS", "Docker", "Redis"],
+  askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "AI APIs"],
+  funFact   : "I build real-time multiplayer games just for fun 🎮",
+
+  currentFocus: {
+    frontend : "Next.js 15 + TypeScript + Tailwind CSS",
+    backend  : "Node.js + Express + MongoDB + Redis",
+    ai       : "OpenAI + Perplexity API Integration",
+    mobile   : "Android (Kotlin)"
+  }
+};
+```
+
+<br clear="right"/>
+
+- 🔭 Currently building **SkillSense AI** — real-time AI skill assessment with caching & team collab
+- 🌱 Levelling up in **System Design, AWS, Docker & Redis**
+- 🏆 Hackathon builder — **3rd Place @ Sangam University** with SkillSense AI
+- 👯 Open to collaborations on **Web, Mobile & AI** projects
+- ⚡ Fun fact: I debug at 2 AM and it somehow always works
+
+***
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,nodejs,express,mongodb,redis,socketio,git,github,vscode,vercel,render,postman)](https://skillicons.dev) [web:30][web:44]
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, MongoDB, Redis, Socket.io  
-**Tools:** Git, Vercel, Render, Postman, Android Studio (Kotlin) [web:1]
-
-## 🚀 Featured Projects
-| Project | Description | Tech Stack | Live Demo | Repo |
-|---------|-------------|------------|-----------|------|
-| 🎬 **Cinephiles Watch** | Movie discovery with debounced search, genre filters & detail pages. Optimized for 200ms load times. | React, Tailwind, TMDB API | [🌐 Demo](https://cinephiles-watch-react-js.onrender.com/) | [📁 Repo](https://github.com/TrikamDevasi/cinephiles-watch-react.js) |
-| 💰 **Expense Manager** | Full-stack tracker with JWT auth, dashboard charts, categories & PDF exports. | Node.js, MongoDB, React, JWT | [🌐 Demo](https://expense-management-odoo.netlify.app/) | [📁 Repo](https://github.com/TrikamDevasi/expense_management) |
-| 🎮 **Game Hub** | Real-time multiplayer Chess & TicTacToe with rooms & WebSockets. | React, Socket.io, Node.js | [🌐 Demo](https://trikamdevasi.github.io/game-portal) | [📁 Repo](https://github.com/TrikamDevasi/game-portal) |
-| 🤖 **SkillSense AI** <br> ![WIP](https://img.shields.io/badge/Status-WIP-yellow) | AI skill assessment with OpenAI/Perplexity APIs, Redis caching & team collab. | Next.js, Node.js, MongoDB, Redis, OpenAI | 🚧 In Dev | [📁 Repo](https://github.com/TrikamDevasi/skillsense-ai) [web:17] |
-
-## 📊 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrikamDevasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrikamDevasi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+### Frontend
+[
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TrikamDevasi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### Backend & Database
+[
 
-</div> [web:16]
+### Tools & Platforms
+[
 
-## 📜 Certifications
-| Certificate | Issuer | Date |
-|-------------|--------|------|
-| 🏅 JavaScript (Intermediate) | HackerRank | Jan 2025 |
-| 🏅 Frontend Web Development | Meta / Coursera | Feb 2025 |
-| 🏅 Backend with Node.js | Udemy | Mar 2025 [web:1] |
-
-## 🏆 Hackathons
-- 🥉 **SkillSense AI** — Sangam University Hackathon (3rd Place): AI skill assessment platform [web:17]
-- 🥇 **Odoo Hackathon** — Gujarat Vidyapith: Full-stack Expense Manager with auth & dashboard
-- ArtPark CodeForge & SBI SafeShield Android app (fraud detection with QR/UPI) [user context]
-
-## 🌐 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trikam-devasi-3975573a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrikamDevasi)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TrikamDevasi16)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TrikamDevasi/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TDspectra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trikam.devasi.cg@gmail.com)
+### Currently Learning
+[
 
 </div>
 
----
+<br/>
+
+<details>
+<summary><b>📊 Proficiency Overview</b></summary>
+<br/>
+
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS | ████████░░ 80% |
+| **Backend** | Node.js, Express.js, REST APIs | ███████░░░ 70% |
+| **Database** | MongoDB, Redis | ███████░░░ 70% |
+| **Real-time** | Socket.io, WebSockets | ██████░░░░ 60% |
+| **Mobile** | Android, Kotlin | █████░░░░░ 50% |
+| **AI/LLM** | OpenAI, Perplexity, Groq | ██████░░░░ 60% |
+| **DevOps** | Git, Vercel, Render, Docker (learning) | █████░░░░░ 50% |
+
+</details>
+
+***
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" alt="Waving" />
-  <br>Thanks for visiting! 🚀
+
+| 🎯 Project | 💡 Description | 🔧 Stack | 🌐 Live | 📁 Code |
+|:---|:---|:---|:---:|:---:|
+| 🤖 **SkillSense AI** <br><sub></sub> | AI-powered skill assessment platform. Integrates OpenAI & Perplexity APIs with Redis caching, JWT auth, and real-time team collab. | Next.js · Node.js · MongoDB · Redis · OpenAI | 🚧 | [Repo](https://github.com/TrikamDevasi/skillsense-ai) |
+| 🎬 **Cinephiles Watch** <br><sub></sub> | Movie discovery platform with debounced search (200ms), genre/rating filters, and TMDB-powered detail pages. | React · Tailwind CSS · TMDB API | [Demo](https://cinephiles-watch-react-js.onrender.com/) | [Repo](https://github.com/TrikamDevasi/cinephiles-watch-react.js) |
+| 💰 **Expense Manager** <br><sub></sub> | Full-stack expense tracker with JWT auth, category management, data visualisation charts, and PDF export. Won **Odoo Hackathon**. | Node.js · MongoDB · React · JWT | [Demo](https://expense-management-odoo.netlify.app/) | [Repo](https://github.com/TrikamDevasi/expense_management) |
+| 🎮 **Game Hub** <br><sub></sub> | Real-time multiplayer hub for Chess & TicTacToe. Features WebSocket rooms, live player matching, and game state sync. | React · Socket.io · Node.js | [Demo](https://trikamdevasi.github.io/game-portal) | [Repo](https://github.com/TrikamDevasi/game-portal) |
+| 🛡️ **SBI SafeShield** <br><sub></sub> | Android fraud detection app with QR/UPI transaction scanning and real-time VirusTotal API threat analysis. | Kotlin · Android · VirusTotal API | — | [Repo](https://github.com/TrikamDevasi/sbi-safeshield) |
+
+</div>
+
+***
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TrikamDevasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="180em" alt="Trikam's GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrikamDevasi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="180em" alt="Top Languages"/>
+
+<br/><br/>
+
+[
+
+</div>
+
+***
+
+## 🏆 Trophies
+
+<div align="center">
+
+[
+
+</div>
+
+***
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Date | 🔗 Verify |
+|:---|:---|:---:|:---:|
+| JavaScript (Intermediate) | HackerRank | Jan 2025 | [View Certificate](https://www.hackerrank.com/certificates/REPLACE_WITH_YOUR_CERT_ID) |
+| Frontend Web Development | Meta / Coursera | Feb 2025 | [View Certificate](https://coursera.org/verify/REPLACE_WITH_YOUR_CERT_ID) |
+| Backend with Node.js | Udemy | Mar 2025 | [View Certificate](https://ude.my/REPLACE_WITH_YOUR_CERT_ID) |
+
+> 💡 **Note:** Replace `REPLACE_WITH_YOUR_CERT_ID` with your actual certificate IDs from HackerRank, Coursera, and Udemy dashboards.
+
+</div>
+
+***
+
+## 🎖️ Hackathons
+
+<div align="center">
+
+| 🏆 Event | 📍 Organizer | 🛠️ Project | 🎯 Achievement |
+|:---|:---|:---|:---:|
+| Sangam University Hackathon | Sangam University | **SkillSense AI** — AI skill assessment with OpenAI + Perplexity | 🥉 3rd Place |
+| Odoo Hackathon | Gujarat Vidyapith | **Expense Manager** — Full-stack tracker with JWT auth & dashboard | 🥇 Winner |
+| ArtPark CodeForge | ArtPark | **SBI SafeShield** — Android fraud detection app with QR/UPI scanning | 🤖 Built |
+
+</div>
+
+***
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[
+
+</div>
+
+***
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrikamDevasi/TrikamDevasi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrikamDevasi/TrikamDevasi/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/TrikamDevasi/TrikamDevasi/output/github-snake.svg" />
+</picture>
+
+> ⚠️ To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo — instructions in the **Setup Guide** below.
+
+</div>
+
+***
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[
+[
+[
+[
+[
+[
+
+<br/>
+
+💬 **Open to:** Internships · Freelance · Hackathon Teams · Open Source Collaboration
+
+</div>
+
+***
+
+<details>
+<summary><b>⚙️ Snake Animation Setup Guide (Click to expand)</b></summary>
+
+1. Go to your GitHub profile repo (`TrikamDevasi/TrikamDevasi`)
+2. Create `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation"
+```
+
+3. Run the action manually once, then it updates daily!
+
+</details>
+
+***
+
+<div align="center">
+
+*"Code is not just what I do — it's how I think."* 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
 </div>
