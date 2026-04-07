@@ -31,6 +31,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626435306430312f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742672d554f6f4e5161735474584c2d55676f4c7072657474792d676f6f6420666f72206272696566792e706e67" />
+
 ```javascript
 const trikam = {
   name      : "Trikam Devasi",
@@ -239,6 +240,7 @@ const trikam = {
 
 1. Go to your GitHub profile repo (`TrikamDevasi/TrikamDevasi`)
 2. Create `.github/workflows/snake.yml` with this content:
+
 ```yaml
 name: Generate Snake Animation
 
